@@ -12,6 +12,7 @@ public class SoalC {
         } else {
             System.out.println(-1);
         }
+        System.out.println("Tambahan");
     }
 
     public static void ubah(String a) {
